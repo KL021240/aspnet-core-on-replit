@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/codespearhead/aspnet-core-on-replit/">ASP.NET Core on Replit®</a></h1>
+<h1 align="center"><a href="https://github.com/KL021240/aspnet-core-on-replit">ASP.NET Core on Replit®</a></h1>
 
 <p align="center">
     <br>
@@ -17,9 +17,9 @@
 > [!NOTE]
 > This project is set up to use the latest LTS version of the .NET SDK
 
-1. Click the button below to open this project on Repl.it:
+1. Click the button below to open this project on Replit.com:
 
-[![Run on Repl.it](https://repl.it/badge/github/Ta180m/Python-Resources)](https://replit.com/@codespearhead/ASPNET-Core)
+[![Run on Repl.it](https://repl.it/badge/github/KL021240/aspnet-core-on-replit)](https://replit.com/@KL021240/aspnet-core-on-replit)
 
 2. Click the 'Use this Template' button.
 3. Click the 'Run' button.
